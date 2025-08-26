@@ -1,4 +1,3 @@
-import React from 'react';
 import { ArrowRightIcon, CheckIcon } from 'lucide-react';
 export function Services() {
   return <div className="w-full">

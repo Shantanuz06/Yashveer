@@ -1,5 +1,4 @@
-import React from 'react';
-import { LinkedinIcon, MailIcon, PhoneIcon } from 'lucide-react';
+import { LinkedinIcon, MailIcon,} from 'lucide-react';
 export function Team() {
   return <div className="w-full">
       {/* Hero Section */}

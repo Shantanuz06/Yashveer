@@ -1,4 +1,3 @@
-import React, { lazy } from 'react';
 import { MapPinIcon, PhoneIcon, MailIcon, ClockIcon } from 'lucide-react';
 export function Contact() {
   return <div className="w-full">
